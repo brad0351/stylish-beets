@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "PT Sans", sans-serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -9,6 +10,13 @@ html {
 
 h1 {
   color: #3f1622;
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  color: #3f1622;
 }
 
 nav ol a {
@@ -16,7 +24,6 @@ nav ol a {
   text-decoration: none;
   list-style: none;
   color: #8f2440;
-  line-height: 2rem;
   font-family: "PT Sans";
   font-size: 1.125rem;
   margin-bottom: .5em;
@@ -69,4 +76,16 @@ blockquote {
 
 article {
   font-family: "PT Serif", serif;
+}
+
+footer {
+  font-size: 1.125rem;
+}
+
+dl p{
+font-style: italic;
+}
+
+dt {
+  font-weight: bold;
 }
