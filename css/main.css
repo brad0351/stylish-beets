@@ -37,6 +37,7 @@ a:hover {
 nav ol {
   list-style-type: none;
 }
+
 body {
   margin: 0;
   background-color: #c9b5ab;
@@ -60,6 +61,7 @@ figcaption {
   font-family: "PT Serif";
   text-align: center;
 }
+
 a {
   text-decoration: none;
 }
@@ -82,8 +84,8 @@ footer {
   font-size: 1.125rem;
 }
 
-dl p{
-font-style: italic;
+dl p {
+  font-style: italic;
 }
 
 dt {
